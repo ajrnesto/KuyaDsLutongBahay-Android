@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/miBookings"
+            android:title="My Bookings"
+        android:icon="@drawable/book_solid" />
+
+        <item android:id="@+id/miHome"
+            android:title="Home"
+        android:icon="@drawable/house_solid" />
+
+        <item android:id="@+id/miProfile"
+            android:title="Profile"
+            android:icon="@drawable/user_solid" />
+    </group>
+</menu>

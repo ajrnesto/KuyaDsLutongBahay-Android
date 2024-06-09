@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052663968739",
+    "project_id": "kuya-d-s-lutong-bahay",
+    "storage_bucket": "kuya-d-s-lutong-bahay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052663968739:android:3a0eae81237615c52fa6d6",
+        "android_client_info": {
+          "package_name": "com.kuya_d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBrh270TJh0iecTUgeZbQMg_e8AagDYik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
